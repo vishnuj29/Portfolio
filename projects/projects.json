@@ -1,0 +1,32 @@
+[
+  {
+    "name": "AI-Powered Sanitization Monitoring",
+    "desc": "Verifies wiping and sanitizer-spray actions and gives real-time feedback (Green Tick / Red Alert).",
+    "image": "project-AI",
+    "category": "ai",
+    "links": {
+      "view": "https://github.com/vishnuj29/AI-Sanitization",
+      "code": "https://github.com/vishnuj29/AI-Sanitization"
+    }
+  },
+  {
+    "name": "Agricultural Marketplace (AgriConnect)",
+    "desc": "Online marketplace connecting farmers, suppliers, and buyers. Secure payments and improved product visibility.",
+    "image": "project-agriconnect",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/vishnuj29/AgriConnect",
+      "code": "https://github.com/vishnuj29/AgriConnect"
+    }
+  },
+  {
+    "name": "Mentor Matrix",
+    "desc": "Matches mentors and mentees based on skills and goals; increased pairing accuracy and engagement.",
+    "image": "project-mentormatrix",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/vishnuj29/Mentor_martix_project",
+      "code": "https://github.com/vishnuj29/Mentor_martix_project"
+    }
+  }
+]
